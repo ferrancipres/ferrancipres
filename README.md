@@ -3,7 +3,7 @@
 
 - 🔥 I'm passionate about making open-source more accessible, creatin technology to elevate people, and building community
 - 👨‍💻 All of my projects are available at [https://github.com/ferrancipres](https://github.com/ferrancipres)
-- 💬 Ask me about **Html, Css, Javascript, React, performance web and anything about Development**
+- 💬 Ask me about **Html, Css, Javascript, React, Performance web and anything about Development**
 - 📫 How to reach me **ferrancipres@gmail.com**
 
 #### About me in code
