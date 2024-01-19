@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ferran Ciprés <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> 
-<h3 align="center">I'm a student of Master Software Development on AIT.</h3>
+<h3 align="center">I am Ferran, and I am a Full Stack Development with a passion for crafting clean and efficient code. My professional background in a globally diverse setting has honed my commitment to delivering maximum impact swiftly and efficiently.
+.</h3>
 
 - 🔥 I'm passionate about making open-source more accessible, creating technology to elevate people, and building community
 - 👨‍💻 All of my projects are available at [https://github.com/ferrancipres](https://github.com/ferrancipres)
