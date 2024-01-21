@@ -11,7 +11,6 @@
 	borIn = 'Barcelona',
 	pronouns: "he" | "him",
 	highlyMotivated: 'true',
-  language: [HTML5, CSS, Javascript, Typescript, React, React Native],
 	developer = 'FullStack' | 'Front' | 'Back',
 	hobbies: ['trading', 'reading', 'eSports']
 }
