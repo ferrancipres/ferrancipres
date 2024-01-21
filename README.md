@@ -27,11 +27,22 @@ Thank you for your time and consideration.
 
 #### About me in code
 ```typescript
+
+interface developerProps {
+   bornIn: string,
+   pronouns: 'he' | 'him',
+   highlyMotivated: boolean,
+   developer: 'FullStack' | 'Front' | 'Back',
+   code: string[],
+   hobbies: string[]
+}
+
 const ferranCipres = {
    borIn: 'Barcelona ',
    pronouns: 'he' | 'him',
-   highlyMotivated: 'true',
+   highlyMotivated: true,
    developer: 'FullStack' | 'Front' | 'Back',
+   code: ["Typescript", "React", "Javascript", "HTML", "CSS"],
    hobbies: ['trading', 'reading', 'eSports']
 }
 ```
