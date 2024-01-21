@@ -9,8 +9,8 @@
 #### About me in code
 ```javascript
 const ferranCipres = {
-   borIn: 'Barcelona',
-   pronouns: "he" | "him",
+   borIn: 'Barcelona ',
+   pronouns: 'he' | 'him',
    highlyMotivated: 'true',
    developer: 'FullStack' | 'Front' | 'Back',
    hobbies: ['trading', 'reading', 'eSports']
