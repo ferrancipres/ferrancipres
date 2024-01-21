@@ -8,11 +8,12 @@
 
 #### About me in code
 ```javascript
-const ferrancipres = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [Bootstrap, Tailwind, React],
-  challenge: "I am working on different proyects focused on react and typescript"
+	borIn = 'Barcelona',
+	pronouns: "he" | "him",
+	highlyMotivated: 'true',
+  language: [HTML5, CSS, Javascript, Typescript, React, React Native],
+	developer = 'FullStack' | 'Front' | 'Back',
+	hobbies: ['trading', 'reading', 'eSports']
 }
 ```
 
