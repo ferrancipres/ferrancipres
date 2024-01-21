@@ -38,7 +38,7 @@ interface developerProps {
 }
 
 const ferranCipres: developerProps = {
-   borIn: 'Barcelona ',
+   bornIn: 'Barcelona ',
    pronouns: 'he' | 'him',
    highlyMotivated: true,
    developer: 'FullStack' | 'Front' | 'Back',
