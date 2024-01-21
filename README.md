@@ -37,7 +37,7 @@ interface developerProps {
    hobbies: string[]
 }
 
-const ferranCipres = {
+const ferranCipres: developerProps = {
    borIn: 'Barcelona ',
    pronouns: 'he' | 'him',
    highlyMotivated: true,
