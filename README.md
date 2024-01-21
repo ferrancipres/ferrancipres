@@ -8,6 +8,7 @@
 
 #### About me in code
 ```javascript
+const ferranCipres = {
 	borIn = 'Barcelona',
 	pronouns: "he" | "him",
 	highlyMotivated: 'true',
