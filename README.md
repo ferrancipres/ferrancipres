@@ -7,7 +7,7 @@
 - 📫 How to reach me **ferrancipres@gmail.com**
 
 #### About me in code
-```javascript
+```typescript
 const ferranCipres = {
    borIn: 'Barcelona ',
    pronouns: 'he' | 'him',
