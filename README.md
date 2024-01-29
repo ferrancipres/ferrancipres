@@ -50,7 +50,7 @@ const ferranCipres: developerProps = {
 <h3 align="left">Languages + Frameworks:</h3>
 <p align="left"> 
 <a href= "httts://skillicons.dev">
-	<img src="https://skillicons.dev/icons?i=git,github,html,css,js,typescript,react,redux,styledcomponents,vite,tailwind,bootstrap,express,mongodb,postgres,prisma,vercel,jenkins,vitest" /><br>
+	<img src="https://skillicons.dev/icons?i=git,github,html,css,js,typescript,react,styledcomponents,vite,tailwind,bootstrap,express,mongodb,postgres,prisma,vercel,jenkins,vitest" /><br>
 </a></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrancipres&show_icons=true&bg_color=00000000)](https://github.com/ferrancipres/github-readme-stats)
